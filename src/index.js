@@ -1,4 +1,4 @@
-const player1 = {
+const jogador1 = {
     NOME: "Mario",
     VELOCIDADE: 4,
     MANOBRABILIDADE: 3,
@@ -6,7 +6,7 @@ const player1 = {
     PONTOS: 0,
   };
   
-  const player2 = {
+  const jogador2 = {
     NOME: "Luigi",
     VELOCIDADE: 3,
     MANOBRABILIDADE: 4,
