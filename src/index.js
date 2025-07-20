@@ -13,3 +13,13 @@ const jogador1 = {
     PODER: 4,
     PONTOS: 0,
   };
+
+  async function rolarDados() {
+    return Math.floor(Math.random() * 6) + 1;
+  }
+
+  (async function principal(params) {
+    console.log(
+        `🏁🚦 Corrida entre ${jogador1.NOME} e ${jogador2.NOME} começando...\n`
+      ); 
+  })();
