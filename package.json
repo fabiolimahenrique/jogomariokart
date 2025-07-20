@@ -1,0 +1,20 @@
+{
+  "name": "jogomariokart",
+  "version": "1.0.0",
+  "description": "Simulador de batalhas mario kart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiolimahenrique/jogomariokart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiolimahenrique/jogomariokart/issues"
+  },
+  "homepage": "https://github.com/fabiolimahenrique/jogomariokart#readme"
+}
